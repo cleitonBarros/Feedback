@@ -29,7 +29,7 @@ const feedbackTypeInfo = feedBackTypes[feedbackType]
             comment,
         })
         onFeedbackSent();
-        setcomment('');
+       
 
     }
 
